@@ -10,7 +10,7 @@ IOTR_blackscreen_fix.shaders = {
   IOTR_DeepDark = {Intensity = 0},
   IOTR_BrokenLens = {Intensity = 0},
   IOTR_Swirl = {Angle = 0},
-  IOTR_Bloody = {Intensity = 0}
+  IOTR_Bloody = {Intensity = 0},
   IOTR_Rainbow = {Time = 0}
 }
 
